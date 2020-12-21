@@ -142,9 +142,6 @@
   margin: 0 auto;
   width: 60%;
   margin-block: 0;
-}
-
-.section-subtitle_theme_light {
   line-height: 34px;
   font-size: 24px;
   font-weight: normal;
@@ -169,9 +166,6 @@
 
 .table__heading {
   margin-block: 0;
-}
-
-.table__heading_theme_light {
   line-height: 1.15;
   font-size: 24px;
   font-weight: bold;
@@ -180,9 +174,6 @@
 .table__text {
   padding-top: 20px;
   margin-block: 0;
-}
-
-.table__text_theme_light {
   line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
