@@ -1,0 +1,9 @@
+.two-columns__brief {
+  line-height: 1.2;
+  font-size: 18px;
+  font-weight: normal;
+  color: #2f80ed;
+  margin-block-start: 0; /* обнуление user agent stylesheet*/
+  margin-block-end: 0; /* обнуление user agent stylesheet*/
+  width: 175px;
+}
