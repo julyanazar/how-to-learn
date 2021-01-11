@@ -3,7 +3,6 @@
   font-size: 18px;
   font-weight: normal;
   color: #2f80ed;
-  margin-block-start: 0; /* обнуление user agent stylesheet*/
-  margin-block-end: 0; /* обнуление user agent stylesheet*/
+  margin: 0;
   width: 175px;
 }
